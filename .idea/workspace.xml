@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit" />
+    <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +98,9 @@
       <updated>1605612559857</updated>
       <workItem from="1605612561040" duration="35000" />
       <workItem from="1605625686987" duration="43000" />
-      <workItem from="1605675661259" duration="293000" />
+      <workItem from="1605675661259" duration="447000" />
+      <workItem from="1606178526522" duration="52000" />
+      <workItem from="1606178592050" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -79,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605675966490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intial commit">
+      <created>1605676147800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605676147800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,9 +132,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1397" height="213" key="GridCell.Tab.0.bottom" timestamp="1605676167371">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1397" height="213" key="GridCell.Tab.0.bottom/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167371" />
+    <state width="1397" height="213" key="GridCell.Tab.0.center" timestamp="1605676167369">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1397" height="213" key="GridCell.Tab.0.center/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167369" />
+    <state width="1397" height="213" key="GridCell.Tab.0.left" timestamp="1605676167369">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1397" height="213" key="GridCell.Tab.0.left/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167369" />
+    <state width="1397" height="213" key="GridCell.Tab.0.right" timestamp="1605676167370">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1397" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167370" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1605675975887">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605675975887" />
   </component>
 </project>
