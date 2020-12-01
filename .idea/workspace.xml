@@ -21,14 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/DebugThree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-3/DebuggingExercises/FixDebugThree4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/DebugFour3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-4/DebuggingExercises/FixDebugFour3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,7 +98,8 @@
       <workItem from="1605625686987" duration="43000" />
       <workItem from="1605675661259" duration="447000" />
       <workItem from="1606178526522" duration="52000" />
-      <workItem from="1606178592050" duration="605000" />
+      <workItem from="1606178592050" duration="785000" />
+      <workItem from="1606789094241" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605676147800</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="intial commit">
+      <created>1606179309510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606179309510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,9 +161,10 @@
       <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1397" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167370" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1605675975887">
-      <screen x="0" y="25" width="1440" height="830" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1606179324028">
+      <screen x="0" y="25" width="1440" height="831" />
     </state>
     <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605675975887" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1606179324028" />
   </component>
 </project>
