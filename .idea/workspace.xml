@@ -21,10 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/DebugFive4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-5/DebuggingExercises/FixDebugFive4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-8/DebuggingExercises/DebugEight1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-8/DebuggingExercises/FixDebugEight1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -63,15 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,7 +99,9 @@
       <workItem from="1605675661259" duration="447000" />
       <workItem from="1606178526522" duration="52000" />
       <workItem from="1606178592050" duration="785000" />
-      <workItem from="1606789094241" duration="275000" />
+      <workItem from="1606789094241" duration="626000" />
+      <workItem from="1606962377662" duration="10000" />
+      <workItem from="1607398125335" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606179309510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="intial commit">
+      <created>1606789650267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606789650267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +170,10 @@
       <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1397" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167370" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1606179324028">
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1606789654954">
       <screen x="0" y="25" width="1440" height="831" />
     </state>
     <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605675975887" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1606179324028" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1606789654954" />
   </component>
 </project>
