@@ -20,12 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
+      <change afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugExtendedVacation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/DebugSeven4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-7/DebuggingExercises/FixDebugSeven4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-8/DebuggingExercises/DebugEight1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-8/DebuggingExercises/FixDebugEight1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugCustomerMakingPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugCustomerMakingPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugExtendedVacation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugVacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,7 +109,8 @@
       <workItem from="1606178592050" duration="785000" />
       <workItem from="1606789094241" duration="626000" />
       <workItem from="1606962377662" duration="10000" />
-      <workItem from="1607398125335" duration="304000" />
+      <workItem from="1607398125335" duration="477000" />
+      <workItem from="1607993686672" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -131,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606789650267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="intial commit">
+      <created>1607398537417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607398537417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,28 +168,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1397" height="213" key="GridCell.Tab.0.bottom" timestamp="1605676167371">
-      <screen x="0" y="25" width="1440" height="830" />
-    </state>
-    <state width="1397" height="213" key="GridCell.Tab.0.bottom/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167371" />
-    <state width="1397" height="213" key="GridCell.Tab.0.center" timestamp="1605676167369">
-      <screen x="0" y="25" width="1440" height="830" />
-    </state>
-    <state width="1397" height="213" key="GridCell.Tab.0.center/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167369" />
-    <state width="1397" height="213" key="GridCell.Tab.0.left" timestamp="1605676167369">
-      <screen x="0" y="25" width="1440" height="830" />
-    </state>
-    <state width="1397" height="213" key="GridCell.Tab.0.left/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167369" />
-    <state width="1397" height="213" key="GridCell.Tab.0.right" timestamp="1605676167370">
-      <screen x="0" y="25" width="1440" height="830" />
-    </state>
-    <state width="1397" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605676167370" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1606789654954">
-      <screen x="0" y="25" width="1440" height="831" />
-    </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605675975887" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1606789654954" />
   </component>
 </project>
