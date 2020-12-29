@@ -20,18 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
-      <change afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugExtendedVacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/FixDebugEleven2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/FixDebugEleven3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugCustomerMakingPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugCustomerMakingPurchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugExtendedVacation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/DebugVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-10/Debugging/FixDebugVacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/DebugNine4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-9/Debugging/FixDebugNine4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/DebugBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/FixDebugBoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/DebugEleven1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/FixDebugEleven1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/DebugEleven2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/DebugEleven3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/DebugEleven4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-11/DebuggingExercises/FixDebugEleven4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +50,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.SalaryDialog">
+  <component name="RunManager" selected="Application.FixDebugEleven4">
     <configuration name="AirlineDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AirlineDialog" />
       <module name="CP2406-Practical-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixDebugEleven4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixDebugEleven4" />
+      <module name="CP2406-Practical-11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,21 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugEleven4" />
         <item itemvalue="Application.SalaryDialog" />
         <item itemvalue="Application.AirlineDialog" />
       </list>
@@ -110,7 +115,8 @@
       <workItem from="1606789094241" duration="626000" />
       <workItem from="1606962377662" duration="10000" />
       <workItem from="1607398125335" duration="477000" />
-      <workItem from="1607993686672" duration="1234000" />
+      <workItem from="1607993686672" duration="1653000" />
+      <workItem from="1609203740934" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -147,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607398537417</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="intial commit">
+      <created>1607995258114</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607995258114</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
