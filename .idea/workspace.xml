@@ -20,24 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6973133-3f68-4508-b856-6bd137a67c8e" name="Default Changelist" comment="intial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/FixDebugThirteen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/FixDebugThirteen4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/FixDebugFourteen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/FixDebugFifteen4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/DebugEmployeeIDException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/FixDebugEmployeeIDException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/DebugTwelve1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/FixDebugTwelve1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/DebugTwelve2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/FixDebugTwelve2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/DebugTwelve3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/FixDebugTwelve3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/DebugTwelve4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-12/DebuggingExercises/FixDebugTwelve4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/DebugThirteen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/FixDebugThirteen1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/DebugThirteen2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/DebugThirteen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/FixDebugThirteen3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-13/DebuggingExercises/DebugThirteen4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/DebugFourteen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/FixDebugFourteen1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/DebugFourteen2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/DebugFourteen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/FixDebugFourteen3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/DebugFourteen4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-14/DebuggingExercises/DebugFourteen4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/DebugFifteen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/FixDebugFifteen1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/DebugFifteen2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/FixDebugFifteen2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/DebugFifteen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/FixDebugFifteen3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406-Practical-15/DebuggingExercises/DebugFifteen4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +52,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RunManager" selected="Application.FixDebugEleven4">
     <configuration name="AirlineDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -88,15 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,7 +116,10 @@
       <workItem from="1607398125335" duration="477000" />
       <workItem from="1607993686672" duration="1653000" />
       <workItem from="1609203740934" duration="563000" />
-      <workItem from="1609807833707" duration="567000" />
+      <workItem from="1609807833707" duration="733000" />
+      <workItem from="1609808589336" duration="60000" />
+      <workItem from="1609808662997" duration="121000" />
+      <workItem from="1610423312138" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605675966490</created>
@@ -195,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609204284263</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="intial commit">
+      <created>1609808445261</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609808445261</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
